@@ -1,0 +1,11 @@
+iOS
+http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/IconsImages/IconsImages.html
+
+Android
+http://developer.android.com/guide/practices/ui_guidelines/index.html
+
+BlackBerry UI Guidelines
+http://docs.blackberry.com/en/developers/subcategories/?userType=21&category=BlackBerry+UI+Guidelines
+
+Windows 8
+http://msdn.microsoft.com/en-us/library/windows/apps/hh779072.aspx
